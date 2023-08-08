@@ -1,7 +1,10 @@
 package conversor;
 
+
+import java.awt.Panel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JMenu;
@@ -9,6 +12,7 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.JTextField;
 
 
 public class ConversorGrafico extends JFrame {
@@ -473,20 +477,7 @@ public class ConversorGrafico extends JFrame {
 					msg = "O peso em Gramas é:" +pesoConvertido;
 					JOptionPane.showMessageDialog(null, msg);
 					
-					int i = JOptionPane.showConfirmDialog(
-					        null, 
-					        "Deseja continuar?"
-					        );
-					if(i == JOptionPane.YES_OPTION) {
-					}
-					else if(i == JOptionPane.NO_OPTION) {
-						JOptionPane.showMessageDialog(null, "Programa finalizado");
-						System.exit(0);
-					}
-					else if(i == JOptionPane.CANCEL_OPTION) {
-						JOptionPane.showMessageDialog(null, "Programa concluído");
-						System.exit(0);
-					}
+					
 					
 				}
 		}
