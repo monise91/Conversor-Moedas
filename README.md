@@ -1,1 +1,1 @@
-[uma descrição da imagem aqui]https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos%2Fmoeda&psig=AOvVaw3QsowooLgA67qoNvjT2REC&ust=1691593098453000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCa_NapzYADFQAAAAAdAAAAABAE
+[uma descrição da imagem aqui]"C:\Users\monise\Downloads\aproximacao-de-moedas-douradas-de-usd-caindo-em-fundo-escuro-dolar-e-a-principal-troca-de-moeda-e-pagamento-no-mundo-por-renderizacao-3d.jpg"
